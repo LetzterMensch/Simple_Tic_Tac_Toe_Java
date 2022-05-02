@@ -11,6 +11,7 @@ It contains 5 stages that I went through to create this game.
 3. The user is the gamemaster
 4. First move
 5. Fight!
+
 Each stage has certain tasks that I have to complete (and I did).
 
 Thank you for reading.
